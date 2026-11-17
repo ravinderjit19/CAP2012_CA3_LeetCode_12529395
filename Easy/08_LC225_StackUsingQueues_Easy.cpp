@@ -1,4 +1,4 @@
-// LeetCode 225 - Implement Stack using Queues
+// LeetCode225 - Implement Stack using Queues
 class MyStack {
 public:
     queue<int> q1;
